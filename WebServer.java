@@ -2,7 +2,7 @@ package es.udc.redes.webserver;
 import java.net.*;
 import java.io.*;
 
-/** @author Daniel Gonzalez 
+/**
  * This is the main class of the web server, the class starts the TCP socket, 
  * the input channel and the output channel, defining the necessary exceptions
  * for the proper functioning of the server. This class only have
