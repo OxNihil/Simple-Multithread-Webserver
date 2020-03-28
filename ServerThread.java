@@ -15,7 +15,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Daniel Gonzalez 
  */
 public class ServerThread extends Thread {
     private final Socket socket;
