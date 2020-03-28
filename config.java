@@ -11,8 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * @author Daniel Gonzalez 
+/*
  * this class read the configuration of the web server, who is stored in the
  * file config.properties 
  */
