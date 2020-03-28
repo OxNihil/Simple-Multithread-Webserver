@@ -20,7 +20,6 @@ import java.util.Date;
 
 /**
  *
- * @author Daniel Gonzalez 
  *  this class implements the logic of the logging service, store the errors 
  *  (status code 200-300) and the correct accesses (status code 400-500) 
  */
@@ -126,7 +125,6 @@ public class logger implements Runnable{
     
     private class Worker implements Runnable {   
         /** this method is called by a new thread for writing the logs **/
-        /** @author Daniel Gonzalez**/
         private final String linealog;
         private final String fichero;
         private final String directory;
