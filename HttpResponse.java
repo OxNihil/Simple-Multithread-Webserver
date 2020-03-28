@@ -17,8 +17,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 /**
- *
- * @author Daniel Gonzalez 
+ * 
  * this class proccess the client request and generate the head and the body
  * request for static and dynamic pages
  */
